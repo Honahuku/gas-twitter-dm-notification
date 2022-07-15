@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Honahuku/gas-twitter-dm-notification/issues"
   },
-  "homepage": "https://github.com/Honahuku/gas-twitter-dm-notification#readme"
+  "homepage": "https://github.com/Honahuku/gas-twitter-dm-notification#readme",
+  "dependencies": {
+    "@google/clasp": "^2.4.1"
+  }
 }
