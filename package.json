@@ -1,0 +1,22 @@
+{
+  "name": "gas-twitter-dm-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Honahuku/gas-twitter-dm-notification.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Honahuku/gas-twitter-dm-notification/issues"
+  },
+  "homepage": "https://github.com/Honahuku/gas-twitter-dm-notification#readme",
+  "dependencies": {
+    "@google/clasp": "^2.4.1"
+  }
+}
