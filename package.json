@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Honahuku/gas-twitter-dm-notification#readme",
   "dependencies": {
     "@google/clasp": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.19.0"
   }
 }

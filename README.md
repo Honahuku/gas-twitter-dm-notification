@@ -18,4 +18,10 @@ clasp login
 
 # gasのコードを取得する
 clasp pull
+
+# コードをgasに上げる
+clasp push
+
+# コードをブラウザで開く
+clasp open
 ```
